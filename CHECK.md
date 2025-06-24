@@ -1,1 +1,0 @@
-#sprawdzenie czy dziala
